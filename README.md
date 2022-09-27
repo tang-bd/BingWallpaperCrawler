@@ -1,2 +1,2 @@
 # BingWallpaperCrawler
-基于Python的必应壁纸爬虫
+A Bing wallpaper crawler written in Python.
